@@ -1,0 +1,54 @@
+let fruta = manzana;
+
+let c = 50;
+
+let x = 3;
+let y = 10;
+console.log (x + y);
+
+let z = (x + y);
+
+let primerNombre = "David" , apellido = "Mendoza" , edad = 26
+
+let hi = 2
+let ho = 3
+console.log (hi + ho)
+
+console.log (13 % 7)
+
+let a = 15
+let b = 5
+let a = (a + b)
+
+let c = 10
+let d = 3
+let c = (c*d)
+
+let gr = 10
+let gs = 8
+if (gr > gs){
+  console.log ("true")
+}
+
+let ha = 24
+let hu = 24
+if (ha == hu) {
+  console.log ("true")
+}
+
+let si = 7
+let no = 3
+if (si != no){
+  console.log ("no valen lo mismo")
+}
+
+if (x>y){
+  console.log ("hola koder")
+}
+
+if (x>=y) {
+  console.log("manzanas")
+}
+else{
+  console.log("peras")
+}
